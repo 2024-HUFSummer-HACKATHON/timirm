@@ -1,4 +1,4 @@
-# STING(스포츠 직관 매칭 웹&앱)
+# 🤾STING(스포츠 직관 매칭 웹)
 ![image](https://github.com/2024-HUFSummer-HACKATHON/timirm/assets/88999549/7d8c6a59-8e3f-4681-b5d1-cb683c2253a0)
 
 
